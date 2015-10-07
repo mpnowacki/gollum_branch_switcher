@@ -15,5 +15,5 @@ setup(
         'uWSGI==2.0.11.1',
         'click==3.3',
     ],
-    data_files=[('conf', ['gollum_branch_switcher/conf.json'])],
+    data_files=[('', ['gollum_branch_switcher/conf.json'])],
 )
