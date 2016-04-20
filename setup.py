@@ -12,6 +12,5 @@ setup(
     install_requires=[
         'Flask==0.10.1',
         'GitPython==1.0.1',
-        'click==3.3',
     ],
 )
